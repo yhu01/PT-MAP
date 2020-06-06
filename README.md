@@ -89,4 +89,6 @@ Our model achieves the following performance (backbone: WRN) on :
 
 [Sinkhorn Distances: Lightspeed Computation of Optimal Transport](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf)
 
+[SimpleShot: Revisiting Nearest-Neighbor Classification for Few-Shot Learning](https://arxiv.org/pdf/1911.04623.pdf)
+
 [Notes on optimal transport](https://github.com/MichielStock/Teaching/tree/master/Optimal_transport)
