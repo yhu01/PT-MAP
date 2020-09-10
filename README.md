@@ -35,12 +35,12 @@ To train the feature extractors in the paper, run this command:
 
 For miniImageNet/CUB<br/>
 ```train
-python train.py --dataset [miniImagenet/CUB] --method [S2M2_R/rotation] --model [WideResNet28_10/ResNet18]
+python train.py --dataset [miniImagenet/CUB] --method [S2M2_R/rotation] --model [WideResNet28_10/ResNet18] --train_aug
 ```
 
 For CIFAR-FS<br/>
 ```train
-python train_cifar.py --dataset cifar --method [S2M2_R/rotation] --model [WideResNet28_10/ResNet18]
+python train_cifar.py --dataset cifar --method [S2M2_R/rotation] --model [WideResNet28_10/ResNet18] --train_aug
 ```
 
 ## Evaluation
