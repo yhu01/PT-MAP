@@ -55,7 +55,7 @@ python test_standard.py
 
 You can download pretrained models and extracted features here:
 
-- [trained models](https://drive.google.com/drive/folders/1uhX_YldcpVBzK2giGn-qZEHGSd6cCeBy?usp=sharing) trained on miniImageNet, CUB and CIFAR-FS using WRN. 
+- [trained models](https://drive.google.com/file/d/1wVJlDnU00Gurs0pw54ZMqf4XsWhJWHIh/view?usp=sharing) trained on miniImageNet, CUB and CIFAR-FS using WRN. 
 
 - Create an empty 'checkpoints' directory.
 - Untar the downloaded file and move it into 'checkpoints' folder.
