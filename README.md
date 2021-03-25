@@ -12,7 +12,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-***Donwloading the dataset and create base/val/novel splits***:
+***Downloading the dataset and create base/val/novel splits***:
 
 miniImageNet
 * Change directory to filelists/miniImagenet/
